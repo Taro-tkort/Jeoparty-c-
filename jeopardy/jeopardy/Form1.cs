@@ -4,7 +4,7 @@ namespace jeopardy
 {
     public partial class Form1 : Form
     {
-        private bool answerMode = false;
+        private bool questionMode = false;
 
         public Form1()
         {
@@ -35,7 +35,8 @@ namespace jeopardy
                 xpos += width;
                 buttons[i].Click += new System.EventHandler(ClickButton);
                 buttons[i].Text = val.ToString();
-                buttons[i].Tag = val;
+                //buttons[i].Tag[] = new[] {val, row};
+                buttons[i].Tag = new buttonData{row = i, pts = val};
                 buttons[i].BackColor = Color.Beige;
             }
         }
@@ -43,21 +44,19 @@ namespace jeopardy
         private void ClickButton(Object sender, EventArgs e)
         {
             Button button = (Button)sender;
-            int scoreGiven = (int)button.Tag;
+            int scoreGiven = (int)button.Tag[0];
             button.BackColor = Color.Black;
             button.ForeColor = Color.Black;
             MessageBox.Show(scoreGiven.ToString());
             qboard.Visible = true;
-            answerMode = false;
+            questionMode = true;
         }
 
         private void closeBtn_Click(object sender, EventArgs e)
         {
-            if (answerMode)
-            {
-
-            }
-            else { 
+            if (questionMode) {
+                answertext = 
+            } else { 
             
             }
 
