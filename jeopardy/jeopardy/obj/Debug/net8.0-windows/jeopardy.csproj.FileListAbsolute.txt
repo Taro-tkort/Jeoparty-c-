@@ -1,0 +1,16 @@
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.Form1.resources
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.csproj.GenerateResource.cache
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.AssemblyInfoInputs.cache
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.AssemblyInfo.cs
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.csproj.CoreCompileInputs.cache
+C:\projects\jeopardy\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.exe
+C:\projects\jeopardy\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.deps.json
+C:\projects\jeopardy\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.runtimeconfig.json
+C:\projects\jeopardy\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.dll
+C:\projects\jeopardy\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.pdb
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.dll
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\refint\jeopardy.dll
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.pdb
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.genruntimeconfig.cache
+C:\projects\jeopardy\jeopardy\jeopardy\obj\Debug\net8.0-windows\ref\jeopardy.dll
