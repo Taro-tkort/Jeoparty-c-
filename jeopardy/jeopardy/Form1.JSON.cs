@@ -1,3 +1,5 @@
+using System.Text.Json;
+
 namespace jeopardy
 {
     public class buttonData
@@ -5,17 +7,18 @@ namespace jeopardy
         public int row;
         public int pts;
     }
-
     partial class Form1
     {
+
         string filePath = "sheet.json";
-        
+
         use streamreader
 
         private string getQuestion(int row, int pts)
         {
-            using (JsonDocument doc = JsonDocument.Parse(jsonString)) {
-                string question = 
+            using (JsonDocument doc = JsonDocument.Parse(jsonString))
+            {
+                string question =
             }
         }
 
@@ -24,4 +27,5 @@ namespace jeopardy
 
         }
     }
+
 }

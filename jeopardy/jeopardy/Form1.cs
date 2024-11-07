@@ -35,7 +35,7 @@ namespace jeopardy
                 xpos += width;
                 buttons[i].Click += new System.EventHandler(ClickButton);
                 buttons[i].Text = val.ToString();
-                //buttons[i].Tag[] = new[] {val, row};
+                //buttons[i].Tag = val;
                 buttons[i].Tag = new buttonData{row = i, pts = val};
                 buttons[i].BackColor = Color.Beige;
             }
@@ -44,9 +44,12 @@ namespace jeopardy
         private void ClickButton(Object sender, EventArgs e)
         {
             Button button = (Button)sender;
-            int scoreGiven = (int)button.Tag[0];
+            //int scoreGiven = (int)button.Tag;
+            buttonData data = button.Tag as buttonData;
+            int scoreGiven = data.pts;
             button.BackColor = Color.Black;
             button.ForeColor = Color.Black;
+            //MessageBox.Show(scoreGiven.ToString());
             MessageBox.Show(scoreGiven.ToString());
             qboard.Visible = true;
             questionMode = true;
@@ -55,7 +58,7 @@ namespace jeopardy
         private void closeBtn_Click(object sender, EventArgs e)
         {
             if (questionMode) {
-                answertext = 
+            //    answertext = 
             } else { 
             
             }
