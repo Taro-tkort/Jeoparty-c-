@@ -40,7 +40,7 @@
             gameboard.BackColor = Color.Beige;
             gameboard.Location = new Point(50, 50);
             gameboard.Name = "gameboard";
-            gameboard.Size = new Size(700, 700);
+            gameboard.Size = new Size(800, 700);
             gameboard.TabIndex = 0;
             // 
             // qboard
@@ -50,7 +50,7 @@
             qboard.Controls.Add(closeBtn);
             qboard.Location = new Point(50, 50);
             qboard.Name = "qboard";
-            qboard.Size = new Size(700, 700);
+            qboard.Size = new Size(800, 700);
             qboard.TabIndex = 0;
             qboard.Visible = false;
             // 
@@ -80,7 +80,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 800);
+            ClientSize = new Size(1000, 800);
             Controls.Add(qboard);
             Controls.Add(gameboard);
             Name = "Form1";
@@ -95,7 +95,6 @@
         private Panel gameboard;
         private Panel qboard;
         private Panel betboard;
-        private Label answertext;
         private Button closeBtn;
         private Label questionLabel;
     }
