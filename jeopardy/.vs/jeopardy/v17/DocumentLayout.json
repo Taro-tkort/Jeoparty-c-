@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.qna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.qna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\q.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\q.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.qna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.qna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,44 +38,45 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Q.csv",
               "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Q.csv",
               "RelativeDocumentMoniker": "jeopardy\\Q.csv",
               "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Q.csv",
               "RelativeToolTip": "jeopardy\\Q.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
               "WhenOpened": "2024-11-11T20:15:54.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
               "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
               "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
               "RelativeToolTip": "jeopardy\\Form1.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAlwDEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAtwDcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T21:17:00.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
               "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
               "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs [Design]",
               "RelativeToolTip": "jeopardy\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:16:12.418Z"
+              "WhenOpened": "2024-11-07T21:16:12.418Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Program.cs",
               "RelativeDocumentMoniker": "jeopardy\\Program.cs",
@@ -83,7 +84,8 @@
               "RelativeToolTip": "jeopardy\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:13:39.098Z"
+              "WhenOpened": "2024-11-07T21:13:39.098Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -97,20 +99,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.QnA.cs",
               "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.QnA.cs",
               "RelativeDocumentMoniker": "jeopardy\\Form1.QnA.cs",
               "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.QnA.cs",
               "RelativeToolTip": "jeopardy\\Form1.QnA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T18:20:23.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "jeopardy\\Form1.Designer.cs",
