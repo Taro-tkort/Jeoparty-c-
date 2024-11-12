@@ -15,3 +15,14 @@ namespace jeopardy
         }
     }
 }
+
+//      minigame ideas
+/* Hvor mange alkoholholdige celebrity drinkcs kan du nevne på 60 sek
+ * Blackjack
+ * Hesteveddeløp
+ * Roulette
+ * Stein saks papir mot skjermen
+ * 
+ * 
+ * 
+ */
