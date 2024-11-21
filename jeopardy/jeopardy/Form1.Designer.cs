@@ -32,12 +32,15 @@
             qboard = new Panel();
             questionLabel = new Label();
             closeBtn = new Button();
+            minigames = new Button();
+            gameboard.SuspendLayout();
             qboard.SuspendLayout();
             SuspendLayout();
             // 
             // gameboard
             // 
             gameboard.BackColor = Color.Beige;
+            gameboard.Controls.Add(minigames);
             gameboard.Location = new Point(50, 50);
             gameboard.Name = "gameboard";
             gameboard.Size = new Size(800, 700);
@@ -46,8 +49,8 @@
             // qboard
             // 
             qboard.BackColor = Color.CadetBlue;
-            qboard.Controls.Add(questionLabel);
             qboard.Controls.Add(closeBtn);
+            qboard.Controls.Add(questionLabel);
             qboard.Location = new Point(50, 50);
             qboard.Name = "qboard";
             qboard.Size = new Size(800, 700);
@@ -70,22 +73,33 @@
             // 
             closeBtn.Location = new Point(275, 600);
             closeBtn.Name = "closeBtn";
-            closeBtn.Text = "REVEAL";
             closeBtn.Size = new Size(150, 50);
             closeBtn.TabIndex = 0;
+            closeBtn.Text = "REVEAL";
             closeBtn.UseVisualStyleBackColor = true;
             closeBtn.Click += closeBtn_Click;
+            // 
+            // minigames
+            // 
+            minigames.Location = new Point(350, 627);
+            minigames.Name = "minigames";
+            minigames.Size = new Size(75, 23);
+            minigames.TabIndex = 0;
+            minigames.Text = "minigames";
+            minigames.UseVisualStyleBackColor = true;
+            minigames.Click += minigames_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1000, 800);
-            Controls.Add(qboard);
             Controls.Add(gameboard);
+            Controls.Add(qboard);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
+            gameboard.ResumeLayout(false);
             qboard.ResumeLayout(false);
             ResumeLayout(false);
         }
@@ -97,5 +111,6 @@
         private Panel betboard;
         private Button closeBtn;
         private Label questionLabel;
+        private Button minigames;
     }
 }

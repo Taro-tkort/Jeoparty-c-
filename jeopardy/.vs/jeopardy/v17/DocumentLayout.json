@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\q.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\q.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.qna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.qna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\formminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\formminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\formminigame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\formminigame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\formminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\formminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|c:\\tissemenn\\projects\\jeoparty-c-\\jeopardy\\jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B15EA8B-E7EE-4EA8-B121-EE4ED75D91EB}|jeopardy\\jeopardy.csproj|solutionrelative:jeopardy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,65 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Q.csv",
-              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Q.csv",
-              "RelativeDocumentMoniker": "jeopardy\\Q.csv",
-              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Q.csv",
-              "RelativeToolTip": "jeopardy\\Q.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-11-11T20:15:54.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
-              "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
-              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
-              "RelativeToolTip": "jeopardy\\Form1.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAtwDcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:17:00.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
-              "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
-              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs [Design]",
-              "RelativeToolTip": "jeopardy\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:16:12.418Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Program.cs",
-              "RelativeDocumentMoniker": "jeopardy\\Program.cs",
-              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Program.cs",
-              "RelativeToolTip": "jeopardy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:13:39.098Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 209,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,29 +38,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.QnA.cs",
-              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.QnA.cs",
-              "RelativeDocumentMoniker": "jeopardy\\Form1.QnA.cs",
-              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.QnA.cs",
-              "RelativeToolTip": "jeopardy\\Form1.QnA.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "FormMinigame.Designer.cs",
+              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\FormMinigame.Designer.cs",
+              "RelativeDocumentMoniker": "jeopardy\\FormMinigame.Designer.cs",
+              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\FormMinigame.Designer.cs",
+              "RelativeToolTip": "jeopardy\\FormMinigame.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:20:23.027Z",
+              "WhenOpened": "2024-11-21T20:45:12.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "jeopardy\\Form1.Designer.cs",
-              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.Designer.cs",
-              "RelativeToolTip": "jeopardy\\Form1.Designer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwFsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FormMinigame.cs",
+              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\FormMinigame.cs",
+              "RelativeDocumentMoniker": "jeopardy\\FormMinigame.cs",
+              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\FormMinigame.cs",
+              "RelativeToolTip": "jeopardy\\FormMinigame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T21:14:20.298Z",
+              "WhenOpened": "2024-11-21T20:42:23.889Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
+              "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
+              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
+              "RelativeToolTip": "jeopardy\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:44:27.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMinigame.cs [Design]",
+              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\FormMinigame.cs",
+              "RelativeDocumentMoniker": "jeopardy\\FormMinigame.cs",
+              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\FormMinigame.cs [Design]",
+              "RelativeToolTip": "jeopardy\\FormMinigame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:42:00.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs",
+              "RelativeDocumentMoniker": "jeopardy\\Form1.cs",
+              "ToolTip": "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Form1.cs [Design]",
+              "RelativeToolTip": "jeopardy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T20:41:24.707Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

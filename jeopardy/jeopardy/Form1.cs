@@ -15,7 +15,7 @@ namespace jeopardy
             InitializeComponent();
             for (int i = 1; i <= 5; i++)
             {
-                GenerateButton(100 * i, 7, 40, 50 * i, 50, 100, i-1);
+                GenerateButton(100 * i, 6, 40, 50 * i, 50, 100, i - 1);
             }
         }
 
@@ -41,7 +41,7 @@ namespace jeopardy
                 buttons[i].Text = val.ToString();
                 //buttons[i].Tag = val;
                 questionSet tmp = getQuestionSets(path, i, shelf); // A-ok does not crash atall
-                buttons[i].Tag = new buttonData{row = i, pts = val, QA = tmp};
+                buttons[i].Tag = new buttonData { row = i, pts = val, QA = tmp };
                 buttons[i].BackColor = Color.Beige;
             }
         }
@@ -69,14 +69,23 @@ namespace jeopardy
             Button button = (Button)sender;
 
             //questionSet QA = data.QA;
-            if (questionMode) {
+            if (questionMode)
+            {
                 questionLabel.Text = currentQuestionSet.answer;
                 questionMode = false;
-            } else { 
+            }
+            else
+            {
                 questionMode = true;
                 qboard.Visible = false;
             }
 
+        }
+
+        private void minigames_Click(object sender, EventArgs e)
+        {
+            FormMinigame fm = new FormMinigame();
+            fm.ShowDialog();
         }
     }
 }
