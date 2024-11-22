@@ -33,6 +33,8 @@
             questionLabel = new Label();
             closeBtn = new Button();
             minigames = new Button();
+            quepicture = new PictureBox();
+            Anspicture = new PictureBox();
             gameboard.SuspendLayout();
             qboard.SuspendLayout();
             SuspendLayout();
@@ -51,6 +53,7 @@
             qboard.BackColor = Color.CadetBlue;
             qboard.Controls.Add(closeBtn);
             qboard.Controls.Add(questionLabel);
+            qboard.Controls.Add(quepicture);
             qboard.Location = new Point(50, 50);
             qboard.Name = "qboard";
             qboard.Size = new Size(800, 700);
@@ -88,6 +91,19 @@
             minigames.Text = "minigames";
             minigames.UseVisualStyleBackColor = true;
             minigames.Click += minigames_Click;
+
+            //
+            // Question picture box
+            //
+            quepicture.Location = new Point(300,50);
+            quepicture.Size = new Size(400,400);
+            quepicture.SizeMode = PictureBoxSizeMode.StretchImage;
+            //
+            // Answer picture box
+            //
+            anspicture.Location = new Point(300,50);
+            anspicture.Size = new Size(400,400);
+            anspicture.SizeMode = PictureBoxSizeMode.StretchImage;
             // 
             // Form1
             // 

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace jeopardy
 {
-    public partial class FormMinigame : Form
+    public partial class FormMinesweeper : Form
     {
-        public FormMinigame()
+        public FormMinesweeper()
         {
             InitializeComponent();
         }
