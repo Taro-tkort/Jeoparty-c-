@@ -16,4 +16,5 @@ C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\ref
 C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.pdb
 C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.genruntimeconfig.cache
 C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\ref\jeopardy.dll
-C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.FormMinigame.resources
+C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.FormMinesweeper.resources
+C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\obj\Debug\net8.0-windows\jeopardy.Properties.Resources.resources

@@ -4,6 +4,8 @@ namespace jeopardy
     {
         public string question;
         public string answer;
+        public string qpic;
+        public string apic;
     }
     public class buttonData
     {
@@ -27,6 +29,9 @@ namespace jeopardy
                     {
                         tmp.question = values[2];
                         tmp.answer = values[3];
+                        tmp.qpic = values[4];
+                        tmp.apic = values[5];
+
                         break;
                     }
                 }

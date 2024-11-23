@@ -1,41 +1,41 @@
 #bday barna
-0,0,Hva heter katten til Joel?,Rigmor!,"Q00"
-0,1,Når har Joel og Peder egentlig bursdag??,18. Nov og 20. Desember,"Q01"
-0,2,Hvem er opfinneren av "gin banana tonic"?,PEDERRRRRR,"Q02"
-0,3,Hvor mange øl drakk joel under lundøl 2022,25,"Q03"
-0,4,Hva er en MC'surf n turf??,En cheese mcfish og chicken salsa kombinert!,"Q04"
+0,0,Hva heter katten til Joel?,Rigmor!,Q00,A00
+0,1,Når har Joel og Peder egentlig bursdag??,18. Nov og 20. Desember,Q01,A01
+0,2,Hvem er opfinneren av "gin banana tonic"?,PEDERRRRRR,Q02,A02
+0,3,Hvor mange øl drakk joel under lundøl 2022,25,Q03,A03
+0,4,Hva er en MC'surf n turf??,En cheese mcfish og chicken salsa kombinert!,Q04,A04
 
 #drikke
-1,0,Hva er i en "irish car bomb",guinness o baileys,"Q11"
-1,1,Hvilke 2 ingredienser trengs for å lage en "Gay n nite",guinness og day n nite,"Q11"
-1,2,Hvilke 4 ingredienser finner man i en original "gin banana tonic" (GBT for short),Gin Tonic Bananlikør Halv banan,"Q11"
-1,3,Hva heter Oslo-baren som vle rangert nummer 11. i verden på drinker, Himkok,"Q11"
-1,4,Hvem har byens billigste pils? (ikke fastpris),Olearys vika!!!!!!!!!!!!!,"Q11"
+1,0,Hva er i en "irish car bomb",guinness o baileys,Q10,A10
+1,1,Hvilke 2 ingredienser trengs for å lage en "Gay n nite",guinness og day n nite,Q11,A11
+1,2,Hvilke 4 ingredienser finner man i en original "gin banana tonic" (GBT for short),Gin Tonic Bananlikør Halv banan,Q12,A12
+1,3,Hva heter Oslo-baren som vle rangert nummer 11. i verden på drinker, Himkok,Q13,A13
+1,4,Hvem har byens billigste pils? (ikke fastpris),Olearys vika!!!!!!!!!!!!!,Q14,A14
 
 #ntnu nyere tid
-2,0,Hvilken måned åpnet nybygget??,August 2024,"Q20"
-2,1,Hva heter NTNU's nye rektor??,Tor Grande,"Q21"
-2,2,Nybygget Helgaseter ble nylig ferdig og kåret til en av norges styggeste bygg hvort ligger det?,Øya rett ovenfor samfundet,"Q22"
-2,3,Hva var kyb-poenggrensen ved ordinær kvote i år?,60.3,"Q23"
-2,4,Hva koster en tuborg på loftet i 2024?,30 sphenn,"Q24"
+2,0,Hvilken måned åpnet nybygget??,August 2024,Q20,A20
+2,1,Hva heter NTNU's nye rektor??,Tor Grande,Q21,A21
+2,2,Nybygget Helgaseter ble nylig ferdig og kåret til en av norges styggeste bygg hvort ligger det?,Øya rett ovenfor samfundet,Q22,A22
+2,3,Hva var kyb-poenggrensen ved ordinær kvote i år?,60.3,Q23,A23
+2,4,Hva koster en tuborg på loftet i 2024?,30 sphenn,Q24,A24
 
 #Oslo
-3,0,En trikk kresjet nylig inn i en butikk hvilken?,Eplehuset,"Q30"
-3,1,Hvem er ordfører i Oslo,Anne Lindbo,"Q31"
-3,2,Hva er adressen til youngs?,Youngstorget 3!,"Q32"
-3,3,Hvilken postadresse er vi i nå?,0253 Oslo,"Q33"
-3,4,pp,qq,"Q34"
+3,0,En trikk kresjet nylig inn i en butikk hvilken?,Eplehuset,Q30,A30
+3,1,Hvem er ordfører i Oslo,Anne Lindbo,Q31,A31
+3,2,Hva er adressen til youngs?,Youngstorget 3!,Q32,A32
+3,3,Hvilken postadresse er vi i nå?,0253 Oslo,Q33,A33
+3,4,Hvor mange bor det i Oslo??,709037,Q34,A34
 
 #EPIC GAMING
-4,0,Hva er den dyreste tomten i norsk monopol?,Rådhusplassen,"Q40"
-4,1,Hva er den dårligste hånden i Texas Holdem?,ruter 2 og kløver 7,"Q41"
-4,2,Hva er sjansen for en Yatzi på første kast?,1/1296,"Q42"
-4,3,Hva er det beste startordet i wordle?,"tales","Q43"
-4,4,Hva er det lengste fallet man kan ta i stigespillet? (negativ score er mulig (100 per feil)),62 ruter,"Q44"
+4,0,Hva er den dyreste tomten i norsk monopol?,Rådhusplassen,Q40,A40
+4,1,Hva er den dårligste hånden i Texas Holdem?,ruter 2 og kløver 7,Q41,A41
+4,2,Hva er sjansen for en Yatzi på første kast?,1/1296,Q42,A42
+4,3,Hva er det beste startordet i wordle?,"tales",Q43,A43
+4,4,Hva er det lengste fallet man kan ta i stigespillet? (negativ score er mulig (100 per feil)),62 ruter,Q44,A44
 
 #GeoGuesser
-5,0,ss,bb,"Q50"
-5,1,pp,qq,"Q51"
-5,2,pp,"kåken til david","Q52"
-5,3,pp,qq,"Q53"
-5,4,pp,qq,"Q54"
+5,0,Hvor er dette??,Shanghai Kina,Q50,A50
+5,1,Hvor er dette??,Göteborg,Q51,A51
+5,2,Hvor er dette??,kåken til david,Q52,A52
+5,3,Hvor er dette??,Lebanon,Q53,A53
+5,4,Hvor er dette??,Kazaksthan,Q54,A54

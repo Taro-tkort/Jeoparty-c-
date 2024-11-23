@@ -1,6 +1,6 @@
 ﻿namespace jeopardy
 {
-    partial class FormMinigame
+    partial class FormMinesweeper
     {
         /// <summary>
         /// Required designer variable.
@@ -47,8 +47,8 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(488, 450);
             Controls.Add(button1);
-            Name = "FormMinigame";
-            Text = "FormMinigame";
+            Name = "FormMinesweeper";
+            Text = "FormMinesweeper";
             ResumeLayout(false);
         }
 

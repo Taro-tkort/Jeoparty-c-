@@ -7,6 +7,7 @@ namespace jeopardy
     {
         private bool questionMode = false;
         static string path = "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Q.csv";
+        static string picturePath = "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\resources\\";
 
         private questionSet currentQuestionSet = new questionSet();
 
@@ -55,10 +56,14 @@ namespace jeopardy
             int row = data.row;
             currentQuestionSet.question = data.QA.question.ToString();
             currentQuestionSet.answer = data.QA.answer.ToString();
+            currentQuestionSet.qpic = picturePath + data.QA.qpic.ToString() + ".jpg";
+            currentQuestionSet.apic = picturePath + data.QA.apic.ToString() + ".jpg";
+            //MessageBox.Show(currentQuestionSet.qpic);
             //questionSet QA = data.QA;
             button.BackColor = Color.Black;
             button.ForeColor = Color.Black;
             questionLabel.Text = currentQuestionSet.question;
+            pictureBox1.Image = Image.FromFile(currentQuestionSet.qpic);
             qboard.Visible = true;
             questionMode = true;
         }
@@ -73,6 +78,7 @@ namespace jeopardy
             {
                 questionLabel.Text = currentQuestionSet.answer;
                 questionMode = false;
+                pictureBox1.Image = Image.FromFile(currentQuestionSet.apic);
             }
             else
             {
@@ -84,7 +90,7 @@ namespace jeopardy
 
         private void minigames_Click(object sender, EventArgs e)
         {
-            FormMinigame fm = new FormMinigame();
+            FormMinesweeper fm = new FormMinesweeper();
             fm.ShowDialog();
         }
     }

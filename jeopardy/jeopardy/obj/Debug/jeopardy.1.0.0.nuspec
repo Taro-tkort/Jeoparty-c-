@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>jeopardy</id>
+    <version>1.0.0</version>
+    <authors>jeopardy</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="7df98e491813c026b0a61cea797d14a713dbd9e3" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.runtimeconfig.json" target="lib\net8.0-windows7.0\jeopardy.runtimeconfig.json" />
+    <file src="C:\Tissemenn\projects\Jeoparty-c-\jeopardy\jeopardy\bin\Debug\net8.0-windows\jeopardy.dll" target="lib\net8.0-windows7.0\jeopardy.dll" />
+  </files>
+</package>
