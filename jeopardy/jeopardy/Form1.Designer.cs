@@ -178,8 +178,8 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1000, 800);
-            Controls.Add(gameboard);
             Controls.Add(qboard);
+            Controls.Add(gameboard);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jeopardy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aac75f5a01a3ab965d14c06ff77142e15c25ecc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbdd8fe69a71ce8b0d198d224baafd526d6e5815")]
 [assembly: System.Reflection.AssemblyProductAttribute("jeopardy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jeopardy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
