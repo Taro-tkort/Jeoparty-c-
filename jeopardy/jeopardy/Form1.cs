@@ -9,41 +9,57 @@ namespace jeopardy
         static string path = "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\Q.csv";
         static string picturePath = "C:\\Tissemenn\\projects\\Jeoparty-c-\\jeopardy\\jeopardy\\resources\\";
 
+        //ButtonArray specs
+        private Button[,] buttons;
+        private int numCategories = 6;
+        private int numQuestions = 5;
+        private int baseHeight = 50;
+        private int baseWidth = 50;
+        private int baseScore = 100;
+        private int globalBuffer = 100;
+
+
         private questionSet currentQuestionSet = new questionSet();
 
         public Form1()
         {
+            buttons = new Button[numCategories, numQuestions];
             InitializeComponent();
-            for (int i = 1; i <= 5; i++)
+            //generates in a horizontal manner
+            for (int rows = 1; rows <= numCategories; rows++)
             {
-                GenerateButton(100 * i, 6, 40, 50 * i, 50, 100, i - 1);
+                GenerateButtons(baseScore, numQuestions, baseWidth, baseHeight, rows - 1);
             }
+            this.SizeChanged += gameboard_SizeChanged;
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
-
-        private void GenerateButton(int val, int num, int xstart, int ystart, int height, int width, int shelf)
+     
+        private void GenerateButtons(int baseScore, int numQuestions, int width, int height, int category)
         {
-            int xpos = xstart;
-            int ypos = ystart;
+            int xpos = 50*category;
+            int ypos = 50;
+            int score = baseScore;
 
-            Button[] buttons = new Button[num];
-            for (int i = 0; i < num; i++)
+            for (int i = 0; i < numQuestions; i++)
             {
-                buttons[i] = new Button();
-                buttons[i].Size = new Size(width, height);
-                buttons[i].Location = new Point(xpos, ypos);
-                gameboard.Controls.Add(buttons[i]);
-                xpos += width;
-                buttons[i].Click += new System.EventHandler(ClickButton);
-                buttons[i].Text = val.ToString();
-                //buttons[i].Tag = val;
-                questionSet tmp = getQuestionSets(path, i, shelf); // A-ok does not crash atall
-                buttons[i].Tag = new buttonData { row = i, pts = val, QA = tmp };
-                buttons[i].BackColor = Color.Beige;
+                buttons[category,i] = new Button();
+                buttons[category,i].Size = new Size(width, height);
+                buttons[category,i].Location = new Point(xpos, ypos);
+                gameboard.Controls.Add(buttons[category, i]);
+                buttons[category, i].Click += new System.EventHandler(ClickButton);
+                buttons[category, i].Text = score.ToString();
+
+                questionSet tmp = getQuestionSets(path, category, i); // A-ok does not crash atall
+                buttons[category, i].Tag = new buttonData { row = i, pts = score, QA = tmp };
+                buttons[category, i].BackColor = Color.Beige;
+
+                //ready for next loop
+                score = 100 * (i + 2);
+                ypos += baseHeight;
             }
         }
 
@@ -92,6 +108,37 @@ namespace jeopardy
         {
             FormMinesweeper fm = new FormMinesweeper();
             fm.ShowDialog();
+        }
+
+        private void gameboard_SizeChanged(object sender, EventArgs e)
+        {
+            int newHeight = this.Height - globalBuffer*2;
+            int newWidth = this.Width - globalBuffer*2;
+            int buttonH = newHeight / numQuestions;
+            int buttonW = newWidth / numCategories;
+            int sPointX = 0 + globalBuffer;
+            int sPointY = 0 + globalBuffer;
+            gameboard.Size = new Size(this.Width, this.Height);
+            qboard.Size = new Size(this.Width, this.Height);
+
+            for (int y = 0; y < numCategories; y++)
+            {
+                sPointY = globalBuffer;
+                for (int x = 0; x < numQuestions; x++)
+                {
+                    buttons[y,x].Size = new Size(buttonW, buttonH);
+                    buttons[y,x].Location = new Point(sPointX,sPointY);
+                    sPointY += buttonH;
+                }
+                sPointX += buttonW;
+            }
+            //Filthy boiler plate
+            label1.Location = new Point(globalBuffer, 50);
+            label2.Location = new Point(buttonW * 1 + globalBuffer, 50);
+            label3.Location = new Point(buttonW * 2 + globalBuffer, 50);
+            label4.Location = new Point(buttonW * 3 + globalBuffer, 50);
+            label5.Location = new Point(buttonW * 4 + globalBuffer, 50);
+            label6.Location = new Point(buttonW * 5 + globalBuffer, 50);
         }
     }
 }

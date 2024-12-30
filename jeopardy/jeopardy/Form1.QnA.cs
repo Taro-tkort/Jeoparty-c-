@@ -16,7 +16,7 @@ namespace jeopardy
 
     partial class Form1
     {
-         private questionSet getQuestionSets(string path, int row, int shelf)
+         private questionSet getQuestionSets(string path, int category, int row)
         {
             questionSet tmp = new questionSet();
             using (var reader = new StreamReader(path))
@@ -25,7 +25,7 @@ namespace jeopardy
                 {
                     string line = reader.ReadLine();
                     string[] values = line.Split(',');
-                    if (values[0] == row.ToString() && values[1] == shelf.ToString()) //supahjanky
+                    if (values[0] == category.ToString() && values[1] == row.ToString()) //supahjanky
                     {
                         tmp.question = values[2];
                         tmp.answer = values[3];

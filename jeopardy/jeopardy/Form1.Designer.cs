@@ -55,7 +55,7 @@
             gameboard.Controls.Add(label2);
             gameboard.Controls.Add(label1);
             gameboard.Controls.Add(minigames);
-            gameboard.Location = new Point(50, 50);
+            gameboard.Location = new Point(0, 0);
             gameboard.Name = "gameboard";
             gameboard.Size = new Size(800, 700);
             gameboard.TabIndex = 0;
@@ -136,7 +136,7 @@
             qboard.Controls.Add(questionLabel);
             qboard.Controls.Add(pictureBox1);
             qboard.Controls.Add(closeBtn);
-            qboard.Location = new Point(50, 50);
+            qboard.Location = new Point(0, 0);
             qboard.Name = "qboard";
             qboard.Size = new Size(800, 700);
             qboard.TabIndex = 0;
